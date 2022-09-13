@@ -1,0 +1,19 @@
+#roxo:hover{
+    background-color: purple;
+}
+#azul:hover{
+    background-color: blue;
+}
+#verde:hover{
+    background-color: green;
+}
+#vermelho:hover{
+    background-color: red;
+}
+a{
+    color: #fff;
+}
+body{
+    font-size: 25px;
+    background-color: rgb(31, 31, 31);
+}
